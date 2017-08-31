@@ -1,0 +1,10 @@
+C:\Users\zbcviton5\source\repos\Sinon\Sinon\bin\Debug\netcoreapp1.1\Sinon.deps.json
+C:\Users\zbcviton5\source\repos\Sinon\Sinon\bin\Debug\netcoreapp1.1\Sinon.runtimeconfig.json
+C:\Users\zbcviton5\source\repos\Sinon\Sinon\bin\Debug\netcoreapp1.1\Sinon.runtimeconfig.dev.json
+C:\Users\zbcviton5\source\repos\Sinon\Sinon\bin\Debug\netcoreapp1.1\Sinon.dll
+C:\Users\zbcviton5\source\repos\Sinon\Sinon\obj\Debug\netcoreapp1.1\Sinon.csproj.CoreCompileInputs.cache
+C:\Users\zbcviton5\source\repos\Sinon\Sinon\obj\Debug\netcoreapp1.1\Sinon.AssemblyInfo.cs
+C:\Users\zbcviton5\source\repos\Sinon\Sinon\bin\Debug\netcoreapp1.1\Sinon.pdb
+C:\Users\zbcviton5\source\repos\Sinon\Sinon\obj\Debug\netcoreapp1.1\Sinon.csprojResolveAssemblyReference.cache
+C:\Users\zbcviton5\source\repos\Sinon\Sinon\obj\Debug\netcoreapp1.1\Sinon.dll
+C:\Users\zbcviton5\source\repos\Sinon\Sinon\obj\Debug\netcoreapp1.1\Sinon.pdb
